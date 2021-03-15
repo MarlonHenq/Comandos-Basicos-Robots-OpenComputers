@@ -18,6 +18,14 @@ obs: Utilizando [Battery Upgrade](https://ocdoc.cil.li/item:battery_upgrade) a b
 Aqui onde você executará os comandos e utilizará o robô
 ![bateria](imagens/terminal_robo.png)
 
+**Editor:**
+O editor do OpenComputers é o **edit**, utilize **edit** seguido do nome do arquivo que deseja criar ou editar e receba o editor aberto para modificações (Ex: edit teste.lua | edit texto.txt)
+
+obs:
+- Para salvar uma modificação no **edit** utilize: **Ctrl+S**
+- E para sair do **edit** utilize: **Ctrl+W**
+
+
 -------
 # Lua:
 
