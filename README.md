@@ -36,6 +36,7 @@ obs:
 
 **Interoretador:**
 Para chamar o interpretador Lua utilize "**lua**" no terminal
+
 Para executar um programa Lua utilize "**lua**" seguido do nome_do_programa.lua (Ex: lua teste.lua)
 
 **Documentação Lua:**
