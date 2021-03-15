@@ -5,13 +5,15 @@ Confira a documentação oficial em: https://ocdoc.cil.li/
 
 # Informações importantes:
 
-Numeração do inventário do Robot:
+**Numeração do inventário do Robot:**
 ![inventario](imagens/inventario_robo.png)
 obs: Utilizando [Inventory Upgrades](https://ocdoc.cil.li/item:inventory_upgrade) o inventário pode passar a ter mais slots
-<br>
-Bateria do Robot:
+
+**Bateria do Robot:**
 ![bateria](imagens/bateria_robo.png)
 obs: Utilizando [Battery Upgrade](https://ocdoc.cil.li/item:battery_upgrade) a bateria pode ser aumentada
+
+
 
 # Comandos Robots:
 
