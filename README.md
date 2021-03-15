@@ -1,6 +1,7 @@
 # Comandos-Basicos-Robots-OpenComputers
 Uma pequena lista com os comandos básicos dos Robots do OpenComputers Minecraft mod
 
+Confira a documentação oficial em: https://ocdoc.cil.li/
 # Comandos Robots:
 
 |        Comando        | Explicação                                                                     | Observação                                                                                                                                        |
