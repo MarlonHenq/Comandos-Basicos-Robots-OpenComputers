@@ -19,7 +19,8 @@ obs: Utilizando [Inventory Upgrades](https://ocdoc.cil.li/item:inventory_upgrade
 obs: Utilizando [Battery Upgrade](https://ocdoc.cil.li/item:battery_upgrade) a bateria pode ser aumentada
 
 **Terminal do Robot:**
-Aqui onde você executará os comandos e utilizará o robô
+
+Aqui é onde você executará os comandos e utilizará o robô
 ![bateria](imagens/terminal_robo.png)
 
 **Editor:**
