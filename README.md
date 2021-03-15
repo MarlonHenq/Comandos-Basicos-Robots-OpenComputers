@@ -3,6 +3,7 @@ Uma pequena lista com os comandos básicos dos Robots do OpenComputers Minecraft
 
 Confira a documentação oficial em: https://ocdoc.cil.li/
 
+---------
 # Informações importantes:
 
 **Numeração do inventário do Robot:**
@@ -13,8 +14,22 @@ obs: Utilizando [Inventory Upgrades](https://ocdoc.cil.li/item:inventory_upgrade
 ![bateria](imagens/bateria_robo.png)
 obs: Utilizando [Battery Upgrade](https://ocdoc.cil.li/item:battery_upgrade) a bateria pode ser aumentada
 
+**Terminal do Robot:**
+Aqui onde você executará os comandos e utilizará o robô
+![bateria](imagens/terminal_robo.png)
 
+-------
+# Lua:
 
+**Interoretador:**
+Para chamar o interpretador Lua utilize "**lua**" no terminal
+Para executar um programa Lua utilize "**lua**" seguido do nome_do_programa.lua (Ex: lua teste.lua)
+
+**Documentação Lua:**
+[Lua 5.2 - Documentação Português](https://www.lua.org/manual/5.2/pt/)
+[Lua 5.4 - Documentation English](https://www.lua.org/manual/5.4/)
+
+--------
 # Comandos Robots:
 
 |        Comando        | Explicação                                                                     | Observação                                                                                                                                        |
