@@ -35,7 +35,7 @@ obs:
 -------
 # Lua:
 
-**Interoretador:**
+**Interpretador:**
 
 Para chamar o interpretador Lua utilize "**lua**" no terminal
 
